@@ -1,0 +1,13 @@
+date	hero	popularity
+201705	Vexana	3
+201706	Gatotkaca	6
+201707	Yi Sun-Shin	26
+201708	Yi Sun-Shin	44
+201709	Yi Sun-Shin	32
+201710	Bruno	47
+201711	Johnson	77
+201712	Hylos	75
+201801	Vexana	67
+201802	Bruno	74
+201803	Bruno	99
+201804	Bruno	92

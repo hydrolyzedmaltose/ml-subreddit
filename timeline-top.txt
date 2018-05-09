@@ -1,0 +1,13 @@
+date	hero	popularity
+201705	Moskov	857
+201706	Karina	593
+201707	Karrie	512
+201708	Karrie	715
+201709	Fanny	806
+201710	Fanny	1002
+201711	Fanny	1125
+201712	Akai	695
+201801	Kagura	804
+201802	Fanny	694
+201803	Lancelot	1046
+201804	Lancelot	882

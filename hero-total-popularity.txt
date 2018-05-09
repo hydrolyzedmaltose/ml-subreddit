@@ -1,0 +1,78 @@
+hero	reddit	game	role
+akai	4084	3.05	tank
+alice	2039	0.52	mage
+alpha	1943	0.74	fighter
+alucard	3906	6.51	fighter
+angela	1312	1.25	support
+argus	2181	1.31	fighter
+aurora	2841	0.33	mage
+balmond	2002	3.75	fighter
+bane	2359	0.87	fighter
+bruno	983	1.75	marksman
+chou	4107	0.41	fighter
+clint	2103	0.69	marksman
+cyclops	4306	3.33	mage
+diggie	1872	0.12	support
+estes	2695	0.22	support
+eudora	2104	1.13	mage
+fanny	7636		assassin
+franco	2026		tank
+gatotkaca	183		tank
+gatot	1381		tank
+gord	1809		mage
+grock	2576		tank
+gusion	762		assassin
+guisson	0		assassin
+gossen	1152		assassin
+harley	4131		mage
+hayabusa	1981		assassin
+haya	3605		assassin
+helcurt	1430		assassin
+hilda	2286		fighter
+hylos	2222		tank
+irithel	1388		marksman
+iritel	2		marksman
+jawhead	657		fighter
+johnson	3001		tank
+kagura	6807		mage
+kagu	6922		mage
+karina	4206		assassin
+karrie	2571		marksman
+lance	5626		assassin
+lancelot	3726		assassin
+lapu	2264		fighter
+lapu-lapu	288		fighter
+layla	3374		marksman
+lesley	2682		marksman
+lolita	2517		tank
+mino	1950		tank
+minotaur	616		tank
+miya	2442		marksman
+moskov	3625		marksman
+moskow	6		marksman
+nana	2795		support
+nata	3183		assassin
+natalia	3035		assassin
+odette	1764		mage
+odete	1		mage
+pharsa	825		mage
+parsa	2		mage
+farsha	11		mage
+rafaela	1346		support
+rafael	1379		support
+roger	2422		fighter
+ruby	4546		fighter
+saber	3087		assassin
+sun	2081		fighter
+tigreal	2083		tank
+valir	364		mage
+vexana	1105	1.31	mage
+yi sun	319		marksman
+yss	1689		marksman
+zhask	1570		mage
+zilong	2588		fighter
+selena	106		assassin
+chang-e	3		mage
+kaja	19		tank
+uranus	194		tank
+hanabi	455		marksman
